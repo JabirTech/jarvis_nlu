@@ -10,7 +10,8 @@ For more information about how this NLU interface works, please visit [VOSK](htt
 
 ## TODO
 
-- [ ] Add a `.gitignore` file.
+- [x] Add a `.gitignore` file.
+    - [ ] Add `/model` folder to `.gitignore`.
 - [ ] Do tests with _English_ model.
 - [ ] Do tests with _Persian_ model.
 - [ ] Add License to the repository.
