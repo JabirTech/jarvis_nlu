@@ -6,4 +6,6 @@ This particular repository belongs to the _natural language understanding_ inter
 
 ## How it works?
 
+For more information about how this NLU interface works, please visit [VOSK](https://alphacephei.com/vosk/)'s website.
+
 ## TODO
