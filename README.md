@@ -9,3 +9,8 @@ This particular repository belongs to the _natural language understanding_ inter
 For more information about how this NLU interface works, please visit [VOSK](https://alphacephei.com/vosk/)'s website.
 
 ## TODO
+
+- [ ] Add a `.gitignore` file.
+- [ ] Do tests with _English_ model.
+- [ ] Do tests with _Persian_ model.
+- [ ] Add License to the repository.
